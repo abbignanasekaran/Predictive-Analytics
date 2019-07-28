@@ -1,2 +1,2 @@
-# pydata-seattle-2017
-Materials for DataScience.com LTV and Neural Nets Talks at PyData Seattle
+# Calculating customer lifetime value 
+Calculate CLTV based on the number of clicks, the frequency and monetary value and the probability that the customeris still active in the system.
